@@ -1,0 +1,14 @@
+# For all submodules
+**/node_modules
+**/package-lock.json
+**/dist
+
+# Client specific
+./client/bs-config.cjs
+./client/src/env-config.json
+
+# Server specific
+
+
+# Optional
+/.vscode

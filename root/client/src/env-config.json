@@ -1,0 +1,9 @@
+{
+  "environment": "testing",
+  "host": {
+    "protocol": "http",
+    "hostname": "localhost",
+    "submitRoute": "submitFile",
+    "port": 1001
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "module-name",
+  "version": "1.0.0",
+  "description": "Short description",
+  "scripts": {
+    "install:client": "cd client && npm install",
+    "install:server": "cd server && npm install",
+    "install": "npm run install:client && npm run install:server",
+    "start": "cd client && npm start"
+  },
+  "keywords": [],
+  "author": "SiddKayy",
+  "license": "MIT"
+}

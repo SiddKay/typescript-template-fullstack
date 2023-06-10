@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "types": [],
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": false,
+    "skipLibCheck": true,
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+
+    /* Modules */
+    "typeRoots": ["node_modules/@types/"],
+    "baseUrl": "./",
+    "rootDir": "src",
+    "outDir": "dist/js"
+  },
+  "include": ["src", "types"]
+}
