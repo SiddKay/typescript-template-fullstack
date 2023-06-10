@@ -1,5 +1,4 @@
 # Typescript template
-Template for fullstack typescript projects using client and server directories in a single repository.
 
 ## Description
 
